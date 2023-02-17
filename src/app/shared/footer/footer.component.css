@@ -1,0 +1,46 @@
+footer{
+  background-color: var(--greenthree);
+}
+
+.location-footer
+{
+  color:var(--text-white);
+  font-size: var(--md);
+}
+img.logo-footer {
+  width: 20%;
+}
+
+.news-footer > .title-news > p{
+  color:var(--text-white);
+  font-weight: 500;
+  font-size: var(--xxl);
+
+}
+
+button.btn.btn-susbcribe {
+  background-color:var(--text-black);
+  color:var(--text-white);
+}
+p.title-mapsite {
+  color:var(--text-white);
+  font-weight: 500;
+  font-size: var(--xxl);
+}
+
+.mapsite-footer .nav-item .nav-link {
+  color:var(--text-white);
+  font-size: var(--md);
+
+}
+
+.mapsite-footer .nav-item .nav-link:hover{
+  color:var(--greenlight);
+
+
+}
+
+img.nav-logos {
+  width: 25px;
+}
+

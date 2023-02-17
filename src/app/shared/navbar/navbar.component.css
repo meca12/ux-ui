@@ -1,0 +1,44 @@
+/* estyles  nav*/
+.nav-section-information{
+  background-color: var(--greensecundary);
+  z-index: 1;
+}
+
+.section-nav-information >p{
+  color :var(--text-white);
+
+
+}
+
+/* estyles  navbar*/
+.iconsocial-nav
+{
+  width: 23px;
+  height: 23px;
+}
+
+img.icons-nav {
+  width: 25px;
+}
+
+.navbar-pages {
+  background-color: hwb(0 99% 1% / 0.664);
+
+
+}
+
+.webkits-mobile{
+  display: none;
+ }
+
+@media(max-width: 640px){
+ .webkits-mobile{
+  display:flex;
+ }
+
+ .webkits-desktop{
+  display: none;
+
+ }
+
+}

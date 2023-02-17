@@ -1,0 +1,61 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100&display=swap');
+
+@import '~swiper/swiper.min.css';
+@import '~swiper/modules/pagination/pagination.min.css';
+@import '~swiper/modules/navigation/navigation.min.css';
+@import '~swiper/modules/autoplay/autoplay.min.css';
+
+
+
+/*
+
+1.-root styles
+2.-reset general styles
+3.-Typography
+5.-others
+
+*/
+
+/* 1 */
+:root{
+
+
+  --greenhardprimar : #238939;
+   --greensecundary : #5A9545;
+   --greentersar : #587A10;
+   --greenthree : #61A708;
+  --greenmedium : #76c33A;
+  --greenlight : #A8d91e;
+  --text-black: #000000;
+  --text-white:#ffffff;
+  --sm:14px;
+  --md:16px;
+  --lg:18px;
+  --xl : 20px;
+  --xxl: 24px;
+  --xxxl: 28px;
+  --xxxxl : 30px;
+  --swiper-navigation-size: 25px;
+
+}
+
+/* 2 */
+
+*{
+   box-sizing: border-box;
+   padding:0;
+   margin:0;
+
+}
+
+/* 3 */
+html{
+
+  font-family:Roboto,'san-serif';
+
+}
+
+
+

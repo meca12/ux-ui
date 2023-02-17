@@ -1,0 +1,44 @@
+[
+  {
+    "id" : 1,
+    "title" : "Soap skin",
+   "price" : 1.4,
+    "currency" : "USD",
+    "image" : "../../assets/imagenes/producto1.jpg"
+
+  },
+  {
+    "id" : 2,
+    "title" : "Facial Cleansing ",
+    "price" : 9.20,
+    "currency" : "USD",
+    "image" : "../../assets/imagenes/producto10.jpg"
+
+  },
+  {
+    "id" : 3,
+    "title" : "Facial serum ",
+    "price" : 15.20,
+    "currency" : "USD",
+    "image" : "../../assets/imagenes/producto3.jpg"
+
+  },
+  {
+    "id" : 4,
+    "title" : "night cream ",
+    "price" : 10.2,
+    "currency" : "USD",
+    "image" : "../../assets/imagenes/producto3.jpg"
+
+  }
+
+]
+
+
+
+
+
+
+
+
+
